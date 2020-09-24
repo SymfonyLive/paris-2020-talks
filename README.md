@@ -231,7 +231,7 @@ Nous aborderons les différentes options pour organiser votre code et le transfe
 Fabriquons des interfaces de qualité pour nos utilisateurs !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/tgalopin/symfonylive-paris-2020-pragmatic-frontend-for-symfony-developers)  
 ~~Video~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
