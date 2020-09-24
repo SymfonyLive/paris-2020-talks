@@ -171,7 +171,7 @@ Comment mesurer les métriques et gérer les alertes ?
 Au cours de cette conférence nous présenterons les différentes solutions et leurs implémentations en Symfony, en analysant les principales étapes du cycle de vie d'une API: conception, documentation, sécurité, logs et monitoring.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/1_A2wJVVxoEfxNrSwO_2FCI3NWMhlDxt1rE_UTsycfKk)  
 ~~Video~~
 
 By [Danielle KAYUMBI BONKOTO](https://connect.symfony.com/profile/hoddan)  
