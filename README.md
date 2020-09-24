@@ -1,4 +1,4 @@
-# [Symfony Live - Paris 2020](http://paris2019.live.symfony.com/) talks
+# [Symfony Live - Paris 2020](http://paris2020.live.symfony.com/) talks
 
 - All talks are in **french**.
 - You can send feedback and love to speakers on their twitter account
