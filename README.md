@@ -209,7 +209,7 @@ Souhaitant proposer une meilleure expérience de développement à mes équipes,
 Cette présentation retracera ce parcours initiatique dans le fonctionnement interne de Symfony, l'outillage utilisé et les leçons apprises. Elle sera à la fois pratique (quoi / comment / pourquoi chercher) mais aussi théorique (fonctionnement interne de Symfony sur quelques chemins critiques).</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/bastnic/retour-dexperience-sur-loptimisation-de-la-stack-symfony)
+[Slides](https://speakerdeck.com/bastnic/retour-dexperience-sur-loptimisation-de-la-stack-symfony)  
 ~~Video~~
 
 By [Bastien Jaillot](https://connect.symfony.com/profile/bastnic)  
