@@ -256,7 +256,7 @@ Je vous ferai part de mon retour d’expérience sur ces implémentations et nou
 
 By [Stefan Richter](https://connect.symfony.com/profile/brokoskokoli)  
 ![github](icon/github.png) [@brokoskokoli](https://github.com/brokoskokoli)  
-![twitter](icon/twitter.png) [@stean1990](https://twitter.com/stean1990)
+![twitter](icon/twitter.png) [@brokoskokoli](https://twitter.com/brokoskokoli)
 
 ---
 
