@@ -150,7 +150,7 @@ Son API volontairement simplifiée est un trésor pour le reste du monde. Tout y
 Lors de cette conférence, je vous propose de démystifier ces outils et l'utilisation qui en est faite dans Symfony.</dd>
 </dl>
 
-~~Slides~~   
+[Slides](https://speakerdeck.com/nicolasgrekas/mettre-la-cryptographie-au-service-de-vos-apps-symfony)  
 ~~Video~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
